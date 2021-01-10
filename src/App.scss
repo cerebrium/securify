@@ -66,6 +66,7 @@ body, html {
 @import url('https://fonts.googleapis.com/css2?family=Xanh+Mono&display=swap');
 $orange-color: #EF4538;
 $orange-color-hover: #e05146;
+$background-color: #161616;
 
 
 /// main page
@@ -180,5 +181,23 @@ $orange-color-hover: #e05146;
 				}
 			}
 		}
+	}
+}
+
+////// main page ///////
+.homeContainer {
+	background-color: $background-color;
+	height: 100vh;
+	width: 100vw;
+
+	h1 {
+		text-align: center;
+		color: white;
+		padding: 10px;
+	}
+	
+	h3 {
+		padding: 10px;
+		color: white;
 	}
 }
