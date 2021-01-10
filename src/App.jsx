@@ -3,7 +3,7 @@ import './App.scss';
 import WelcomeBoxes from './components/imageContainer/WelcomeBoxes'
 import WelcomeBoxesLower from './components/imageContainer/WelcomeBoxesLower'
 import Stereo from './Images/stereoImage.jpg'
-import Painting from './Images/paintingTwo.webp'
+import Painting from './Images/painterino.jpg'
 import Ps4 from './Images/ps4.jpg'
 import Computer from './Images/computer.jpg'
 import Login from './components/auth/Login'
